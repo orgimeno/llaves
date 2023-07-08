@@ -1,7 +1,7 @@
 # 🔒🔑🗝🔧🔓 Enigma de las Llaves - No Human Sound x Jaloner
 
 
-$${\color{red}¡Alerta de Spoiler! \space \color{orange}Este contenido contiene información reveladora.}$$
+$${\color{red}¡Alerta de Spoiler! \space \color{orange}Este \space contenido \space contiene \space información \space reveladora.}$$
  
 
 ## ¿Dónde habré dejado las llaves, bro?
@@ -26,21 +26,21 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
    Utiliza el enlace **_?v=EN0-iGtKD7I_** para acceder al primer tema oculto, el cual tiene un vídeo con imágenes glitcheadas en las que pudimos descubrir este string:
    ``` aHR0cHM6Ly95b3V0dS5iZS9zQIJVdUpaSU85WQ== ```
 
-### El secreto y la clave están en la dosis pero lo que lleva la dosis es base64
+### El Enigma Cifrado: 
 4. **El secreto y la clave están en la dosis pero lo que lleva la dosis es base64:**
    En el segundo 33 del segundo vídeo, encontrarás un código alfanumérico.
-   ![captura video 2 Jaloner x No Human Sound](https://cdn.discordapp.com/attachments/1120016283354808412/1120850296030113946/image.png)
+   ![captura video 2 Jaloner x No Human Sound](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
 ### Encoded base64 Decoded true
 5. **Descífralo, Hackéalo:**
    Decodifica el código alfanumérico para obtener el enlace https://youtu.be/sBRUuJZIO9Y.
    El doble ```==``` recuerda a una encriptación, y utilizamos la más extendida: base64.
-   ![decode](https://cdn.discordapp.com/attachments/1120016283354808412/1120850900416725072/image.png)
+   ![decode](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
 ### La Canción Oculta: Un Portal a lo Desconocido
 6. **🔑 Cambio de paradigma:**
    En el vídeo oculto accederás a una canción inédita, en la descripción del video está el canal de [Telegram](https://t.me/+bsIzOWziGRA5MWFk).
-   ![Pista en descripción del video](https://cdn.discordapp.com/attachments/1093307387319963648/1121255231410409492/image.png)
+   ![Pista en descripción del video](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
 ### El Misterio Revelado: La Hora Oscura del 1 de Junio
 7. **13:47h (hora española) el día 1 de junio de 2023:**
@@ -54,11 +54,13 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 ### La unión hace la fuerza, fuerza con piña 🍍
 8. **¡Únete a la comunidad!**
    A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Pvictor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/WNj4vHDm) en el que converguen todos los cerrajeros.
-   ![Únete a la comunidad](https://cdn.discordapp.com/attachments/1119277746443522151/1119316780968591410/image.png)
+   ![Únete a la comunidad](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
 ### El Regreso a la Superficie: Entre Sombras y Profundidades
 9. **🐠Volver a la superficie🐡:**
     El poema encontrado en Telegram hace referencia a la importancia de volver al principio, es decir, al video llaves. Por si te quedan dudas, la página es la 55 y se observa en la foto que han agregado **__oner__** para dejar "[55 ONER]" mediante la edición. Cuando volvemnos al origen de todo, nada más empieza vemos al protagonista en el exterior, la superficie, pero pronto nos adentramos en lo más profundo de nosotros mismos.
+
+    
 
 ### El Enigma Cifrado: Secretos Oscuros y Palabras Prohibidas
 10. **Encriptación con palabra clave:**
