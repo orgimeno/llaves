@@ -4,6 +4,7 @@
 $${\color{red}¡Alerta de Spoiler! \space \color{orange}Este \space contenido \space contiene \space información \space reveladora.}$$
  
 
+
 ## ¿Dónde habré dejado las llaves, bro?
 ## Tendrás que llamar al cerrajero...
 
@@ -53,18 +54,19 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 ### La unión hace la fuerza, fuerza con piña 🍍
 8. **¡Únete a la comunidad!**
-   A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Pvictor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/WNj4vHDm) en el que converguen todos los cerrajeros.
+   A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Pvictor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/8tEZKnB3x) en el que converguen todos los cerrajeros.
    ![Únete a la comunidad](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
 ### El Regreso a la Superficie: Entre Sombras y Profundidades
 9. **🐠Volver a la superficie🐡:**
-    El poema encontrado en Telegram hace referencia a la importancia de volver al principio, es decir, al video llaves. Por si te quedan dudas, la página es la 55 y se observa en la foto que han agregado **__oner__** para dejar "[55 ONER]" mediante la edición. Cuando volvemnos al origen de todo, nada más empieza vemos al protagonista en el exterior, la superficie, pero pronto nos adentramos en lo más profundo de nosotros mismos.
-
-    
+    El poema encontrado en Telegram hace referencia a la importancia de volver al principio, es decir, al video llaves. Por si te quedan dudas, la página es la 55 y se observa en la foto que han agregado **__oner__** para dejar "[55 ONER]" mediante la edición. Cuando volvemnos al origen de todo, nada más empieza vemos al protagonista en el exterior, la superficie, pero pronto nos adentramos en lo más profundo de nosotros mismos.    
 
 ### El Enigma Cifrado: Secretos Oscuros y Palabras Prohibidas
 10. **Encriptación con palabra clave:**
     La encriptación utilizada en el string de Telegram requiere una palabra clave para descifrarla. Tenemos algunos scripts que prueban en distíntos métodos de encriptación con un diccionario hecho por la comunidad con la mayoría de conceptos que hemos podido extraer. A continuación tenemos que probar todos los posibles secretos en los diferentes métodos de encriptación. [Creo que son unos 127 ...](https://encode-decode.com/encryption-functions/)
+
+###
+11. ****
 
   ### Ponte al día en nuestro discord y esta cuenta de github. Iremos subiendo y actualizando la info 22-06-2023
 
