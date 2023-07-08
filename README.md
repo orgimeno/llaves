@@ -70,4 +70,4 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 🗝️🎵 ¡Sigue estos pasos y adéntrate en el enigma "Llaves - No Human Sound x Jaloner"! Cada descubrimiento nos acerca más a la verdad, que está cada vez más profunda. ¡Emergerá cuando un servidor se tumba... 💤🛌💤! 🗝️🎵
 
-> El individuo se enfoca hacia la consecución de un logro; una vez conseguido, pertenece al pasado y se convierte inmediatamente en un punto de partida... pero siempre esperando un después.
+> "No importa cuántas veces fracases, solo tienes que acertar una vez." - Drew Houston
