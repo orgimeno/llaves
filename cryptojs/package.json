@@ -1,0 +1,24 @@
+{
+  "name": "cryptollave",
+  "version": "1.0.0",
+  "description": "Probar varios decrypt methods para ultima llave jaloner",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orgimeno/llaves.git"
+  },
+  "author": "Saturno🪐",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orgimeno/llaves/issues"
+  },
+  "homepage": "https://github.com/orgimeno/llaves#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
