@@ -3,7 +3,7 @@
 
 $${\color{red}¡Alerta de Spoiler! \space \color{orange}Este \space contenido \space contiene \space información \space reveladora.}$$
  
-[![Logo de Discord](https://discord.gg/8tEZKnB3x)](https://discord.gg/8tEZKnB3x)
+[![Logo de Discord](https://github.com/orgimeno/llaves/blob/main/images/discord-logo-blue.svg)](https://discord.gg/8tEZKnB3x)
 
 ## ¿Dónde habré dejado las llaves, bro?
 ## Tendrás que llamar al cerrajero...
@@ -41,6 +41,7 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 ### La Canción Oculta: Un Portal a lo Desconocido
 6. **🔑 Cambio de paradigma:**
    En el vídeo oculto accederás a una canción inédita, en la descripción del video está el canal de [Telegram](https://t.me/+bsIzOWziGRA5MWFk).
+
    ![Pista en descripción del video](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
 
 ### El Misterio Revelado: La Hora Oscura del 1 de Junio
