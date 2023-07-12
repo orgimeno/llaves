@@ -30,13 +30,13 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 ### El Enigma Cifrado: 
 4. **El secreto y la clave están en la dosis, pero lo que lleva la dosis es base64:**
    En el segundo 33 del segundo vídeo, encontrarás un código alfanumérico.
-   ![captura video 2 Jaloner x No Human Sound](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
+   ![captura video 2 Jaloner x No Human Sound](https://github.com/orgimeno/llaves/blob/main/images/key2solved.png)
 
 ### Encoded base64 Decoded ```true```
 5. **Descífralo, Hackéalo:**
    Decodifica el código alfanumérico para obtener el enlace https://youtu.be/sBRUuJZIO9Y.
    El doble ```==``` recuerda a una encriptación, y utilizamos la más extendida: base64.
-   ![decode](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
+   ![decode](https://github.com/orgimeno/llaves/blob/main/images/key3info.png)
 
 ### La Canción Oculta: Un Portal a lo Desconocido
 6. **🔑 Cambio de paradigma:**
@@ -68,7 +68,7 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 ###
 11. **El Siguiente Desafío: El Portal del Conocimiento**
-   Después de semanas y semanas de trabajo, el Cipher text correspondiente al canal de Telegram fue identificado como un código encriptado en el método AES256 con una contraseña específica. Tras más pruebas y errores, se descubrió que la contraseña era ***GGSÄÄción***, el mismo texto que se encontró escondido en los créditos del tema Llaves junto a la secuencia *"55 oner"*.
+   Después de semanas y semanas de trabajo, el Cipher text correspondiente al canal de Telegram fue identificado como un código encriptado en el método AES56 con una contraseña específica. Tras más pruebas y errores, se descubrió que la contraseña era ***GGSÄÄción***, el mismo texto que se encontró escondido en los créditos del tema Llaves junto a la secuencia *"55 oner"*.
 
 ###
 12. El Portal del Conocimiento: llegaraotro.uno
