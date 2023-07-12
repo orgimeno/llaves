@@ -36,12 +36,13 @@ secretInput.value = SECRET;
 const decryptButton = document.querySelector("#encryption_decrypt");
 decryptButton.click();
 
+alert("epa");
+console.log(document.querySelector("#encryption_sourceText"));
 // Esperar a que la página se cargue después de enviar el formulario
 window.addEventListener('load', () => {
   // Obtener el input de origen y mostrar su contenido en un alert si está descodificado
   const sourceInput = document.querySelector("#encryption_sourceText");
   const sourceText = sourceInput.value;
-  if (sourceText !== '') {
+
     alert(sourceText);
-  }
-});
+ });

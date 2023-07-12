@@ -3,7 +3,7 @@
 
 $${\color{red}¡Alerta de Spoiler! \space \color{orange}Este \space contenido \space contiene \space información \space reveladora.}$$
  
-
+[![Logo de Discord](https://discord.gg/8tEZKnB3x)](https://discord.gg/8tEZKnB3x)
 
 ## ¿Dónde habré dejado las llaves, bro?
 ## Tendrás que llamar al cerrajero...
@@ -28,11 +28,11 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
    ``` aHR0cHM6Ly95b3V0dS5iZS9zQIJVdUpaSU85WQ== ```
 
 ### El Enigma Cifrado: 
-4. **El secreto y la clave están en la dosis pero lo que lleva la dosis es base64:**
+4. **El secreto y la clave están en la dosis, pero lo que lleva la dosis es base64:**
    En el segundo 33 del segundo vídeo, encontrarás un código alfanumérico.
    ![captura video 2 Jaloner x No Human Sound](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
-### Encoded base64 Decoded true
+### Encoded base64 Decoded ```true```
 5. **Descífralo, Hackéalo:**
    Decodifica el código alfanumérico para obtener el enlace https://youtu.be/sBRUuJZIO9Y.
    El doble ```==``` recuerda a una encriptación, y utilizamos la más extendida: base64.
@@ -54,21 +54,49 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 ### La unión hace la fuerza, fuerza con piña 🍍
 8. **¡Únete a la comunidad!**
-   A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Pvictor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/8tEZKnB3x) en el que converguen todos los cerrajeros.
+   A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Pvictor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/8tEZKnB3x) en el que convergen todos los cerrajeros.
    ![Únete a la comunidad](https://github.com/orgimeno/llaves/main/images/key4story.png)
 
 ### El Regreso a la Superficie: Entre Sombras y Profundidades
-9. **🐠Volver a la superficie🐡:**
-    El poema encontrado en Telegram hace referencia a la importancia de volver al principio, es decir, al video llaves. Por si te quedan dudas, la página es la 55 y se observa en la foto que han agregado **__oner__** para dejar "[55 ONER]" mediante la edición. Cuando volvemnos al origen de todo, nada más empieza vemos al protagonista en el exterior, la superficie, pero pronto nos adentramos en lo más profundo de nosotros mismos.    
+9. **🐠 Volver a la superficie: 🐡 **
+    El poema encontrado en Telegram hace referencia a la importancia de volver al principio, es decir, al video llaves. Por si te quedan dudas, la página es la 55 y se observa en la foto que han agregado **oner** para dejar "[55 ONER]" mediante la edición. Cuándo volvemos al origen de todo, nada más empieza vemos al protagonista en el exterior, la superficie, pero pronto nos adentramos en lo más profundo de nosotros mismos.    
 
 ### El Enigma Cifrado: Secretos Oscuros y Palabras Prohibidas
 10. **Encriptación con palabra clave:**
-    La encriptación utilizada en el string de Telegram requiere una palabra clave para descifrarla. Tenemos algunos scripts que prueban en distíntos métodos de encriptación con un diccionario hecho por la comunidad con la mayoría de conceptos que hemos podido extraer. A continuación tenemos que probar todos los posibles secretos en los diferentes métodos de encriptación. [Creo que son unos 127 ...](https://encode-decode.com/encryption-functions/)
+    La encriptación utilizada en el string de Telegram requiere una palabra clave para descifrarla. Tenemos algunos scripts que prueban en distintos métodos de encriptación con un diccionario hecho por la comunidad con la mayoría de conceptos que hemos podido extraer. A continuación tenemos que probar todos los posibles secretos en los diferentes métodos de encriptación. [Creo que son unos 127 ...](https://encode-decode.com/encryption-functions/)
 
 ###
-11. ****
+11. **El Siguiente Desafío: El Portal del Conocimiento**
+   Después de semanas y semanas de trabajo, el Cipher text correspondiente al canal de Telegram fue identificado como un código encriptado en el método AES256 con una contraseña específica. Tras más pruebas y errores, se descubrió que la contraseña era ***GGSÄÄción***, el mismo texto que se encontró escondido en los créditos del tema Llaves junto a la secuencia *"55 oner"*.
 
-  ### Ponte al día en nuestro discord y esta cuenta de github. Iremos subiendo y actualizando la info 22-06-2023
+###
+12. El Portal del Conocimiento: llegaraotro.uno
+   Al desencriptar el Cipher text del Telegram, se llega a una página titulada "llegaraotro.uno". Puedes acceder a ella a través del siguiente enlace: [llegaraotro.uno](https://llegaraotro.uno/wp-login.php?itsec-hb-token=iVBcPbA13QhjmDSX33HWY1337R)
+
+###
+13. El Desafío del Portal: ¿Quién? ¿Cuándo?
+
+Al ingresar a la página, se requerían dos campos al estilo usuario y contraseña, pero titulados como *¿Quién?* y *¿Cuándo?* respectivamente.
+
+###
+14. El Enigma de la Página 109 y la Clave de Acceso
+
+   Al inspeccionar el código de la página, se encontraron elementos HTML que llamaban la atención, incluido un párrafo con la clase *"109 oner"*. Al relacionar esta referencia con la secuencia *"55 oner"*, se descubrió que "109oner" correspondía a la página 109 del libro *"Hilos"* de _Chantal Maillard_.
+
+   Además, se encontró un fragmento del poema:
+
+   "Primero, el quién. Luego viene el cuándo. Peor el cuándo. O no es peor, es peligroso. El quién se ajusta con el cuándo y el temor sobreviene. El temor a perder. A perderse. Si al menos uno pudiese entonces agarrarse a otras manos, pero otras igualmente se agarran a un quien complicado en un cuando, cada cual albergándolos. Así que mejor olvidar. Acariciar al gato. De bruces. A su altura. Disminuirse."
+
+###
+15. El Futuro del Enigma
+
+Tras ingresar los datos en los campos de la página, se nos redirecciona a una nueva página que nos presenta dos opciones, además de la opción de descargar el tema.
+
+![Únete a la comunidad](https://github.com/orgimeno/llaves/main/images/key7.png)
+- Opción 1: Borra Llaves de YouTube y nada de esto habrá pasado.
+- Opción 2: Sube a YouTube la última llave.
+
+  ### Ponte al día en nuestro discord y esta cuenta de Github. Iremos subiendo y actualizando la info 22-06-2023
 
 🗝️🎵 ¡Sigue estos pasos y adéntrate en el enigma "Llaves - No Human Sound x Jaloner"! Cada descubrimiento nos acerca más a la verdad, que está cada vez más profunda. ¡Emergerá cuando un servidor se tumba... 💤🛌💤! 🗝️🎵
 
