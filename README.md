@@ -30,18 +30,18 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 ### El Enigma Cifrado: 
 4. **El secreto y la clave están en la dosis, pero lo que lleva la dosis es base64:**
    En el segundo 33 del segundo vídeo, encontrarás un código alfanumérico.
-   ![captura video 2 Jaloner x No Human Sound](https://github.com/orgimeno/llaves/main/images/key4story.png)
+   ![captura video 2 Jaloner x No Human Sound](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
 
 ### Encoded base64 Decoded ```true```
 5. **Descífralo, Hackéalo:**
    Decodifica el código alfanumérico para obtener el enlace https://youtu.be/sBRUuJZIO9Y.
    El doble ```==``` recuerda a una encriptación, y utilizamos la más extendida: base64.
-   ![decode](https://github.com/orgimeno/llaves/main/images/key4story.png)
+   ![decode](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
 
 ### La Canción Oculta: Un Portal a lo Desconocido
 6. **🔑 Cambio de paradigma:**
    En el vídeo oculto accederás a una canción inédita, en la descripción del video está el canal de [Telegram](https://t.me/+bsIzOWziGRA5MWFk).
-   ![Pista en descripción del video](https://github.com/orgimeno/llaves/main/images/key4story.png)
+   ![Pista en descripción del video](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
 
 ### El Misterio Revelado: La Hora Oscura del 1 de Junio
 7. **13:47h (hora española) el día 1 de junio de 2023:**
@@ -55,7 +55,7 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 ### La unión hace la fuerza, fuerza con piña 🍍
 8. **¡Únete a la comunidad!**
    A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Pvictor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/8tEZKnB3x) en el que convergen todos los cerrajeros.
-   ![Únete a la comunidad](https://github.com/orgimeno/llaves/main/images/key4story.png)
+   ![Únete a la comunidad](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
 
 ### El Regreso a la Superficie: Entre Sombras y Profundidades
 9. **🐠 Volver a la superficie: 🐡 **
@@ -92,7 +92,7 @@ Al ingresar a la página, se requerían dos campos al estilo usuario y contrase�
 
 Tras ingresar los datos en los campos de la página, se nos redirecciona a una nueva página que nos presenta dos opciones, además de la opción de descargar el tema.
 
-![Únete a la comunidad](https://github.com/orgimeno/llaves/main/images/key7.png)
+![Únete a la comunidad](https://github.com/orgimeno/llaves/blob/main/images/key7.png)
 - Opción 1: Borra Llaves de YouTube y nada de esto habrá pasado.
 - Opción 2: Sube a YouTube la última llave.
 
