@@ -46,7 +46,7 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 ### El Misterio Revelado: La Hora Oscura del 1 de Junio
 7. **13:47h (hora española) el día 1 de junio de 2023:**
-    Observa que los vídeos ocultos y el canal de Telegram fueron creados antes de la publicación del enigma. En este se publicó el [poema pez 🐟](https://youtu.be/nRQ4wvt0gm8) de [Chantal Maillard](https://chantalmaillard.com/) y una cadena de carácteres alfanumérica encriptada la que llamaremos el último String.
+    Observa que los vídeos ocultos y el canal de Telegram fueron creados antes de la publicación del enigma. En este se publicó el [poema "el pez 🐟"](https://youtu.be/nRQ4wvt0gm8) de [Chantal Maillard](https://chantalmaillard.com/) y una cadena de carácteres alfanumérica encriptada la que llamaremos el último String.
      ```FkDY+3JK5pEtm3jChcNSz7Ig2BjpQb8L+9px9oV7vetMWwGU1DX1Phuw+Ku1pzV5sOEPoqIa7DzFqDA4YrVTuw==``` 
     El poema se encuentra en 3 imágenes.
     ![imagen1](https://github.com/santibreo/jaloner_llave3/blob/main/images/1.jpg)
@@ -97,18 +97,26 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 
 ### Desafiando el Desafio
-13. **Pentesting by @Jomoza**
-   El portal de enigmas en llegaraotro.uno es el epicentro de la búsqueda. Durante la travesía por este enigmático sitio web, se llevaron a cabo numerosas pruebas de seguridad. Aunque ninguna de ellas dio con el resultado deseado, se descubrió que el desafío era mucho más sencillo de lo imaginado.
-   Sin embargo, la aventura no se detiene ahí. Una serie de descubrimientos intrigantes se sucedieron en el camino. Desde la revelación de la existencia de XML-RPC activado en el sitio, hasta la exploración de las posibilidades de fuerza bruta y las vulnerabilidades de host header injection, se exploraron diversas vías en busca de la verdad oculta.
-   La posibilidad de un ataque de denegación de servicio (DDoS) y las técnicas de esteganografía aplicadas a un gif misterioso fueron consideradas, pero no lograron desentrañar el enigma. Además, se llevaron a cabo búsquedas exhaustivas de información pública (OSINT) en busca de correos electrónicos relacionados, pero no se obtuvieron resultados significativos.
+13. **Pentesting by @Jomoza** 💻🌐
+   El portal de enigmas en llegaraotro.uno es el epicentro de la búsqueda. Durante la travesía por este enigmático sitio web, se llevaron a cabo numerosas pruebas de seguridad. Aunque ninguna de ellas dio con el resultado deseado, se descubrió que el desafío es mucho más sencillo de lo que podríamos haber imaginado. 😮🔍
+   Sin embargo, la aventura no se detiene ahí. Una serie de descubrimientos intrigantes se sucedieron en el camino. Desde la revelación de la existencia de XML-RPC activado en el sitio, hasta la exploración de las posibilidades de fuerza bruta y las vulnerabilidades de host header injection, se exploraron diversas vías en busca de la verdad oculta.💡🔒
+   La posibilidad de un ataque de denegación de servicio (DDoS) y las técnicas de esteganografía aplicadas a un gif misterioso fueron consideradas, pero no lograron desentrañar el enigma. Además, se llevaron a cabo búsquedas exhaustivas de información pública (OSINT) en busca de correos electrónicos relacionados, pero no se obtuvieron resultados significativos.🕵️‍♀️🔎
+   ¡La sed de conocimiento y la pasión por resolver este enigma nos impulsan a continuar! Juntos, estamos desafiando los límites y explorando los límites de nuestra propia capacidad intelectual. 🌟💪
 
 
 ###
 14. **El Desafío del Portal: ¿Quién? ¿Cuándo?**
 
-   Nos encontramos con un formulario de usuario y contraseña, pero etiquetados como *¿Quién?* y *¿Cuándo?* respectivamente.
+   Nuestra intrépida exploración por el portal llegaraotro.uno ha alcanzado un punto crucial. Nos hemos topado con un intrigante formulario que nos exige introducir un usuario y una contraseña, pero con una peculiaridad: están etiquetados como "¿Quién?" y "¿Cuándo?" respectivamente. 😮🔒
 
    ![Formulario web](https://github.com/orgimeno/llaves/blob/main/images/key5.2.png)
+
+   Al adentrarnos en la investigación de este formulario web, hemos inspeccionado detenidamente el código de la página, descubriendo elementos HTML que captaron nuestra atención. Entre ellos, encontramos un enigmático párrafo con la clase "109 oner". Siguiendo nuestra intuición y relacionando esta misteriosa referencia con la secuencia "55 oner", hemos desvelado su significado: "109oner" corresponde a la página 109 del libro "Hilos" de Chantal Maillard. 📚🔍
+
+   Este sorprendente hallazgo nos plantea nuevas interrogantes y abre la puerta a un universo de posibilidades. ¿Qué conexión se esconde entre el enigma del portal y la página 109 de "Hilos"? ¿Cómo podemos utilizar este conocimiento para avanzar en nuestra búsqueda de respuestas? 💡🔐
+
+   Permanece atento, querido compañero, ya que cada paso que damos nos acerca un poco más a descifrar el enigma que nos desafía. Continuaremos explorando, investigando y desentrañando los misterios que se ocultan en cada rincón de llegaraotro.uno. ¡Juntos, estamos más cerca de la verdad! 🚀🔓
+
 
    Al inspeccionar el código de la página, se encontraron elementos HTML que llamaban la atención, incluido un párrafo con la clase *"109 oner"*. Al relacionar esta referencia con la secuencia *"55 oner"*, se descubrió que "109oner" correspondía a la página 109 del libro *"Hilos"* de _Chantal Maillard_.
 
