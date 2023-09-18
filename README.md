@@ -3,7 +3,7 @@
 
 $${\color{red}¡Alerta de Spoiler! \space \color{orange}Este \space contenido \space contiene \space información \space reveladora.}$$
  
-[![Logo de Discord](https://github.com/orgimeno/llaves/blob/main/images/discord-logo-blue.svg)](https://discord.gg/8tEZKnB3x)
+[![Logo de Discord](https://github.com/orgimeno/llaves/blob/main/images/discord-logo-blue.svg)](https://discord.gg/sxHY2FvjcK)
 
 ## ¿Dónde habré dejado las llaves, bro?
 ## Tendrás que llamar al cerrajero...
@@ -55,7 +55,7 @@ Publicado el 1 de mayo de 2023 en YouTube [No Human Sound x Jaloner - Llaves �
 
 ### La unión hace la fuerza, fuerza con piña 🍍
 8. **¡Únete a la comunidad!**
-   A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Piktor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/8tEZKnB3x) en el que convergen todos los cerrajeros.
+   A través de las redes sociales, se nos anima a crear comunidad y unirnos para resolver el enigma. Los usuarios @Giancarlo y @Piktor, sin conocerse, sin compartir el mismo continente pero unidos por un objetivo común crearon a [un servidor 🙇‍,](https://discord.gg/sxHY2FvjcK) en el que convergen todos los cerrajeros.
    ![Únete a la comunidad](https://github.com/orgimeno/llaves/blob/main/images/key4story.png)
 
 ### El Regreso a la Superficie: Entre Sombras y Profundidades
